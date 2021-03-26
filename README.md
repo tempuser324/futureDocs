@@ -12,3 +12,5 @@ This site is the template for the workshop [Committing to Documentation](https:/
 2. Step 2
 3. Step 3
     - Step 3 has you `running some code`
+    - After you run that code, confirm something
+    - Great job on that confirmation
