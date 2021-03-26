@@ -21,7 +21,7 @@ has_children: true
 - I am apologizing for not having proper content to share with you today
 - Though the documentation tips are very helpful
 - Markdown is super easy, but, too many bullets in the .md world
-- [Hello world link](https://google.com)
+- [Hello world link](google.com)
 
 
 
@@ -33,6 +33,10 @@ whole bunch of like.... python stuff or other stuff
 import json
 import csv
 import requests
+
+### Add Image
+
+![dilute calico cat](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dilute_calico_British_Shorthair.jpg/180px-Dilute_calico_British_Shorthair.jpg "Logo Title Text 1")
 
 baseURL = ''
 user = ''
