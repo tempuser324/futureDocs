@@ -21,7 +21,7 @@ has_children: true
 - I am apologizing for not having proper content to share with you today
 - Though the documentation tips are very helpful
 - Markdown is super easy, but, too many bullets in the .md world
-- [Hello world link](google.com)
+- [Hello world link](https://google.com)
 
 
 
