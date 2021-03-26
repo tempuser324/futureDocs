@@ -5,3 +5,10 @@ This site is the template for the workshop [Committing to Documentation](https:/
 - Making a change with a single line
 
 
+## This is my first header
+
+### Smaller section here
+1. Step 1
+2. Step 2
+3. Step 3
+    - Step 3 has you `running some code`
